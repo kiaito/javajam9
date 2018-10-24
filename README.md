@@ -1,10 +1,9 @@
 ### Javajam9
 
-A musician website
+Handcraft musician website
 
 - HTML5 for Formating 
 - CSS for styling 
 - Contact form
-- Fancy Tables
 - Mobile Respondsive
 - Media Queries
